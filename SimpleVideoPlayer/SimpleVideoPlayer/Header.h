@@ -1,0 +1,1 @@
+void SaveFrame(AVFrame *pFrame, int width, int height, int iFrame);
